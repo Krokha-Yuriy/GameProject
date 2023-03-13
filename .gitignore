@@ -12,5 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-/Test
-/Content/Tests
+Test
+Content/Tests
