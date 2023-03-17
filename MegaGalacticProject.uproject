@@ -10,11 +10,16 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "RuntimeTests",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
 		"Android",
 		"Windows",
-		"IOS"
+		"IOS",
+		"HoloLens"
 	]
 }
